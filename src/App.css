@@ -145,7 +145,7 @@ details > summary {
   margin: -450px 0px 500px 130px;
   min-height: 55px;
   padding: 1rem;
-  border: 4px dotted rgb(134, 129, 129);
+  border: 3px solid rgb(134, 129, 129);
   border-radius: 5rem;
 }
 .h{
